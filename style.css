@@ -7,7 +7,7 @@
 body {
   background-image: url("Test.png");
   background-repeat: no-repeat;
-  background-size: 1500px 800px;
+  background-size: 1920px 1080px;
   
 }
 .wrapper {
@@ -90,7 +90,7 @@ body {
   display: none;
 }
 .container {
-  background-image: url("Test.png");
+  background-image: url("Final\ Test.jpg");
   position: absolute;
   top: 0;
   height: 100%;
@@ -100,7 +100,7 @@ body {
   align-items: center;
   justify-content: center;
   background-repeat: no-repeat;
-  background-size: 1500px 800px;
+  background-size: 1600px 1100px;
 }
 .container button {
   background-color: #ffffff;
@@ -110,11 +110,14 @@ body {
   padding: 1em 2em;
   border-radius: 50em;
   cursor: pointer;
+  font-family: monospace;
 }
 .container p {
   font-size: 2em;
   color: #ffffff;
   margin-bottom: 1em;
+  text-align: center;
+  
 }
 .container span {
   font-weight: 600;
